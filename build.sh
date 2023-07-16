@@ -1,0 +1,1 @@
+gcc main.c http.c util.c data_structures.c -o server
